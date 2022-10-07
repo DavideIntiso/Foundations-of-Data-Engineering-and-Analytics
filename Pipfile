@@ -32,6 +32,7 @@ graphviz = "*"
 xgboost = "*"
 dvc = "*"
 cookiecutter = "*"
+pipenv-to-requirements = "*"
 
 [dev-packages]
 
