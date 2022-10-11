@@ -7,8 +7,8 @@ GitHub repository for the course Foundations of Data Engineering and Analytics
 pip3 install --user pipenv
 
 # cd to data-engineering-analytics-notebooks directory
-# install packages specified in pip file
-pipenv install 
+# install packages specified in requirements.txt file
+pipenv install -r requirements.txt
 
 # activate virtual environment
 pipenv shell
