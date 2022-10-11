@@ -5,7 +5,7 @@
 
 # usage help
 usage() { 
-  echo "Usage: $0 NOTEBOOK_TO_CHECK.ipynb" 1>&2 
+  echo "Usage: $0 dea01_dataset_analyses.ipynb" 1>&2 
 }
 
 # call tools for given notebook
