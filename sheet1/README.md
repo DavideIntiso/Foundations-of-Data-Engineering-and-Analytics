@@ -1,5 +1,5 @@
 # Foundations-of-Data-Engineering-and-Analytics
-GitHub repository for the course Foundations of Data Engineering and Analytics
+GitHub repository for the sheet 1 of the course Foundations of Data Engineering and Analytics
 
 ## Installation 
 ```bash
