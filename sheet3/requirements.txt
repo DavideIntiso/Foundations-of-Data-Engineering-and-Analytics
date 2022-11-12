@@ -1,0 +1,41 @@
+################################################################################
+# This requirements file has been automatically generated from `Pipfile` with
+# `pipenv-to-requirements`
+#
+#
+# This has been done to maintain backward compatibility with tools and services
+# that do not support `Pipfile` yet.
+#
+# Do NOT edit it directly, use `pipenv install [-d]` to modify `Pipfile` and
+# `Pipfile.lock` and then regenerate `requirements*.txt`.
+################################################################################
+
+cookiecutter
+datasets
+dvc
+fastparquet
+flake8
+graphviz
+ipykernel
+isort
+jupyter
+jupyterlab
+matplotlib
+nbqa
+nbval
+numpy
+pandas
+pipenv-to-requirements
+plotly
+pre-commit
+psycopg2-binary
+pyarrow
+scipy
+seaborn
+sklearn
+statsmodels
+stemgraphic
+tqdm
+watermark
+xgboost
+yapf

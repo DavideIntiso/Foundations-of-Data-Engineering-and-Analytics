@@ -1,0 +1,40 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cookiecutter = "*"
+datasets = "*"
+dvc = "*"
+fastparquet = "*"
+flake8 = "*"
+graphviz = "*"
+ipykernel = "*"
+isort = "*"
+jupyter = "*"
+jupyterlab = "*"
+matplotlib = "*"
+nbqa = "*"
+nbval = "*"
+numpy = "*"
+pandas = "*"
+pipenv-to-requirements = "*"
+plotly = "*"
+pre-commit = "*"
+psycopg2-binary = "*"
+pyarrow = "*"
+scipy = "*"
+seaborn = "*"
+sklearn = "*"
+statsmodels = "*"
+stemgraphic = "*"
+tqdm = "*"
+watermark = "*"
+xgboost = "*"
+yapf = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
